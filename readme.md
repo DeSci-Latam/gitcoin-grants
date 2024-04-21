@@ -2,7 +2,8 @@
 
 - Logo Size:  400px * 400px
 - Banner Size: 1500px * 500px
-- Thumbnail resize to: 372 * 128 px
+- Card thumbnail resize to: 372ppx * 128px
+- Card description max line: 3
 - Image description: 700px * 466px
 
 
