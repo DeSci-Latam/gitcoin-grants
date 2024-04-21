@@ -1,8 +1,9 @@
 ## Gitcoin Builder Allo v2
 
-Logo Size:  400px * 400px Pixeles
-Banner Size: 1500px * 500px
-Image description: 700px * 466px
+- Logo Size:  400px * 400px Pixeles
+- Banner Size: 1500px * 500px
+- Thumbnail resize to: 372 * 128 px
+- Image description: 700px * 466px
 
 
 ### Markdown example
